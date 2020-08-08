@@ -1,0 +1,6 @@
+Using  machine learning algorithms like linear regression, k- nearest neighbors we can easily predict the outcomes and test the result.
+This is because the data contains only numerical data.
+It is not as simple if the data contains some categorical features.
+How to train a model that contains categorical features , such that to attain maximum accuracy.
+
+This project will make you understand the stream flow , of what to perform if data contains categorical features.
